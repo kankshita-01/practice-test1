@@ -4,3 +4,4 @@ name: practice test1
 duration: 1hour
 location: online
 roll number: 12
+rules: added
