@@ -1,1 +1,2 @@
 name: practice test
+essentials: laptop with charge
